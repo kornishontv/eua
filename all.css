@@ -1,0 +1,67 @@
+#kil{
+  color: white;
+  font-size: 30px;
+  background-color: #407213;
+  padding: 15px;
+  margin: 15px;
+  border: 7px solid #407213;
+  border-radius: 30px;
+  opacity: 1;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-weight: 900;
+  transform: rotate(77deg)scale(0.6);
+  transition: 1s all;
+}
+#kil:hover{
+  transform: rotate(0deg);
+}
+#k{
+  color: white;
+  font-size: 30px;
+  background-color: #407213;
+  padding: 15px;
+  margin: 15px;
+  border: 7px solid #407213;
+  border-radius: 30px;
+  opacity: 1;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-weight: 900;
+  transform: rotate(77deg)scale(0.6);
+  transition: 1s all;
+}
+#j{
+  color: red
+}
+#te{
+  color: green;
+}
+#n{
+  color: red;
+}
+#et{
+  color: green;
+}
+#f{
+  color: black;
+  border: 4px solid green;
+  background-color: green;
+}
+#f:hover{
+  border: 10px solid green;
+  background-color: green;
+  font-size: 20px
+}
+#a{
+    color: black;
+    border: 1px solid green;
+    background-color: green;
+}
+#a:hover{
+  color: black;
+  border: 14px solid green;
+  background-color: green;
+}
